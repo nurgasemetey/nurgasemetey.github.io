@@ -33,16 +33,20 @@ I thought there must be more simple way, I just wanted to **validate requests**.
 
 That's why I liked [Spring Boot approach](https://www.appsdeveloperblog.com/oauth2-resource-server-and-keycloak/) which is:
 - include package
+  
 ```xml
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-oauth2-resource-server</artifactId>
 </dependency>
 ```
+
 - add one line config
+
 ```yaml
 spring.security.oauth2.resourceserver.jwt.issuer-uri = http://localhost:8080/auth/realms/appsdeveloperblog
 ```
+
 At start, it fetches makes request to `issuer-uri` which has response like this
 
 ```json
