@@ -9,13 +9,13 @@ permalink: /about/
 ## Projects
 
 
-### Product Tracker
+**Product Tracker** 
 
-### PlayLiked
+**PlayLiked**
 
 
-### Website Visit Hours
+**Website Visit Hours**
 
-### WeekHabit
+**WeekHabit**
 
 
