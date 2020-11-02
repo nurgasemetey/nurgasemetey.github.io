@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Express-jwt and Keycloak: how I didn't use Keycloak's official library"
+title: "Express-jwt and Keycloak: how I didn not use official Keycloak library"
 description: "I had task of adding security to microservices system using JWT..."
 comments: true
 keywords: "node,springboot,jwt,keycloak"
