@@ -6,6 +6,7 @@ permalink: /projects/
 
 # Janus
 
+Source code: [https://github.com/Paraboly/janus](https://github.com/Paraboly/janus)
 Link - [https://paraboly.github.io/janus/](https://paraboly.github.io/janus/)
 
 # Product Tracker 
