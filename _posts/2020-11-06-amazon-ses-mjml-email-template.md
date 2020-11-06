@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I used Amazon SES with MJML to create email templates in my side-projects"
+title: "How I used Amazon SES with MJML to create email templates in my side-project"
 description: "Short story about Amazon SES u "
 comments: true
 keywords: "amazon-ses,mjml,template"
