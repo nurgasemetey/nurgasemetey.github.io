@@ -21,10 +21,10 @@ Link - [https://playliked.paraboly.com](https://playliked.paraboly.com)
 
 # Website Visit Hours
 
+Source code: [https://github.com/nurgasemetey/WebsiteVisitHours](https://github.com/nurgasemetey/WebsiteVisitHours)
+
 Link - [https://chrome.google.com/webstore/detail/websitevisithours/adcgbpkopailjabdjcfieknjjgcanhnd](https://chrome.google.com/webstore/detail/websitevisithours/adcgbpkopailjabdjcfieknjjgcanhnd) 
 
 # WeekHabit
-
-Source code: [https://github.com/nurgasemetey/WebsiteVisitHours](https://github.com/nurgasemetey/WebsiteVisitHours)
 
 Link - [https://weekhabit.paraboly.com](https://weekhabit.paraboly.com)
