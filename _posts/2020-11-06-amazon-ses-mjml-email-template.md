@@ -98,3 +98,8 @@ aws ses update-template --cli-input-json file://simple-template.json
 **Example**:
 
 ![mjml editor](/assets/images/mjml-example.png)
+
+
+
+
+> Article on [dev.to](https://dev.to/nurgasemetey/how-i-used-amazon-ses-with-mjml-to-create-email-templates-in-my-side-project-3oi9)
