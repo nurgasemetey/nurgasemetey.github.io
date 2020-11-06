@@ -101,3 +101,9 @@ const publicKey = `-----BEGIN PUBLIC KEY-----\r\n${response.public_key}\r\n-----
 app.use(jwt({ secret: publicKey, algorithms: ['RS256'] }));
 ```
 I achieved on-start fetch of public key without cumbersome settings on NodeJS.
+
+
+---
+
+> [Article on dev.to](https://dev.to/nurgasemetey/how-to-fetch-public-key-for-express-jwt-on-start-from-openid-on-nodejs-4hjc)
+> [Article on medium](https://nurgasemetey.medium.com/problem-728af2b5dbf3)
