@@ -85,13 +85,13 @@ Standard workflow for generating email template html:
 1. Create template in editor [https://mjml.io/try-it-live](https://mjml.io/try-it-live)
 2. Copy to file, let's name `simple-template.mjml`
 3. run(I assume that you installed `mjml`) 
-```
+```shell
 ./node_modules/.bin/mjml -r simple-template.mjml -o simple-template.html
 ```
 4. Copy `new-template.html` to `HtmlPart` part of `simple-template.json` described above.
 5. Update `template` by running 
 
-```
+```shell
 aws ses update-template --cli-input-json file://simple-template.json
 ```
 
