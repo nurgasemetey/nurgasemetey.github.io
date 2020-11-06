@@ -97,4 +97,4 @@ aws ses update-template --cli-input-json file://simple-template.json
 
 **Example**:
 
-![mjml editor](/assets/images/mjml-editor.png)
+![mjml editor](/assets/images/mjml-example.png)
