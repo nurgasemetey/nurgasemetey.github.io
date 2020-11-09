@@ -3,7 +3,7 @@ title_left    : "Nurgazy Nazhimidinov"
 title_right   : "" # default: ""
 description   : "Personal website and blog"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://nurgasemetey.github.io # site url
+url           : https://nurgasemetey.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
