@@ -6,9 +6,17 @@ permalink: /projects/
 
 # Janus
 
+#### Description
+
+Daily productivity heatmap
+
+#### Links
+
 Source code: [https://github.com/Paraboly/janus](https://github.com/Paraboly/janus)
 
 Link - [https://paraboly.github.io/janus/](https://paraboly.github.io/janus/)
+
+---
 
 # Product Tracker 
 
