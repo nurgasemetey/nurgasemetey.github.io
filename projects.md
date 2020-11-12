@@ -22,7 +22,7 @@ Link - [https://paraboly.github.io/janus/](https://paraboly.github.io/janus/)
 
 #### Description
 
-TBD
+To be added
 
 #### Links
 
@@ -34,7 +34,7 @@ Link - [https://producttracker.paraboly.com](https://producttracker.paraboly.com
 
 #### Description
 
-TBD
+To be added
 
 #### Links
 Link - [https://playliked.paraboly.com](https://playliked.paraboly.com)
@@ -45,7 +45,7 @@ Link - [https://playliked.paraboly.com](https://playliked.paraboly.com)
 
 #### Description
 
-TBD
+To be added
 
 #### Links
 
@@ -58,7 +58,7 @@ Link - [https://chrome.google.com/webstore/detail/websitevisithours/adcgbpkopail
 # WeekHabit
 #### Description
 
-TBD
+To be added
 
 #### Links
 
@@ -70,7 +70,7 @@ Link - [https://weekhabit.paraboly.com](https://weekhabit.paraboly.com)
 
 #### Description
 
-TBD
+To be added
 
 #### Links
 
