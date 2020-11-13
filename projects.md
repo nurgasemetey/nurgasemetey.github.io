@@ -22,7 +22,7 @@ Link - [https://paraboly.github.io/janus/](https://paraboly.github.io/janus/)
 
 #### Description
 
-To be added
+Tool for tracking company's product releases.
 
 #### Links
 
@@ -34,7 +34,11 @@ Link - [https://producttracker.paraboly.com](https://producttracker.paraboly.com
 
 #### Description
 
-To be added
+Do you listen big playlist on Spotify?
+
+Do you like songs from these big playlists?
+
+Do you want to listen only liked songs from these playlists?
 
 #### Links
 Link - [https://playliked.paraboly.com](https://playliked.paraboly.com)
@@ -45,7 +49,7 @@ Link - [https://playliked.paraboly.com](https://playliked.paraboly.com)
 
 #### Description
 
-To be added
+Chrome extension which makes visits insufferable on "not productive" websites.
 
 #### Links
 
@@ -58,7 +62,7 @@ Link - [https://chrome.google.com/webstore/detail/websitevisithours/adcgbpkopail
 # WeekHabit
 #### Description
 
-To be added
+Track only one habit per week, no more.
 
 #### Links
 
@@ -70,7 +74,7 @@ Link - [https://weekhabit.paraboly.com](https://weekhabit.paraboly.com)
 
 #### Description
 
-To be added
+Compare team's last season and this season.
 
 #### Links
 
