@@ -168,3 +168,10 @@ At the end, I developed extension with enabled me to discard my custom bash scri
 Deprecated bash scripts 😄
 
 ![chelsea](/assets/images/ulauncher-extension-bash-scripts.png){:class="img-responsive"}
+
+
+---
+
+> [Article on dev.to](https://dev.to/nurgasemetey/how-i-wrote-ulauncher-extension-for-most-used-timedate-macros-c5i)
+> 
+> 
