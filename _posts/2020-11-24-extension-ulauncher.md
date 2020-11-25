@@ -163,7 +163,7 @@ Explanation for `ExtensionResultItem`:
 
 At the end, I developed extension with enabled me to discard my custom bash scripts and forget about keyboard shortcuts for them.
 
-[Source code on github](https://github.com/nurgasemetey/ulauncher-timestamp-macros)
+[Source code on Github](https://github.com/nurgasemetey/ulauncher-timestamp-macros)
 
 
 Deprecated bash scripts 😄
