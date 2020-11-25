@@ -155,7 +155,7 @@ Explanation for `ExtensionResultItem`:
 
 `description` - subtext which is also shown to user, look at screenshot above
 
-`on_enter` - most important part, says what to do if user click on this items. In my case, it is `CopyToClipboardAction` action which copies data to clipboard.
+`on_enter` - most important part, says what to do if user clicks on this items. In my case, it is `CopyToClipboardAction` action which copies data to clipboard.
 
 
 # Summary
