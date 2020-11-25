@@ -48,7 +48,7 @@ Here is the tutorial [link](http://docs.ulauncher.io/en/latest/extensions/tutori
 
 # About my extension
 
-Ulauncher requires that extension must `manifest.json` file to operate.
+Ulauncher requires that extension must have `manifest.json` file to operate.
 
 Example of `manifest.json`
 
