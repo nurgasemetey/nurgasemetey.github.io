@@ -174,4 +174,4 @@ Deprecated bash scripts 😄
 
 > [Article on dev.to](https://dev.to/nurgasemetey/how-i-wrote-ulauncher-extension-for-most-used-timedate-macros-c5i)
 > 
-> 
+> [Article on Medium](https://nurgasemetey.medium.com/how-i-wrote-ulauncher-extension-for-most-used-timedate-macros-f6ad14ee0bad)
