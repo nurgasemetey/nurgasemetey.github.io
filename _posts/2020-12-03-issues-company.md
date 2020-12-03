@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "State of things in my workplace"
+title: "Issues in my workplace"
 description: ""
 comments: true
 keywords: "company, workplace"
