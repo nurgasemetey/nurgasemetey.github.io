@@ -3,7 +3,7 @@ layout: post
 title: "How I wrote Ulauncher extension for most used timedate macros"
 description: "Soccer tool for ..."
 comments: true
-keywords: "project"
+keywords: "tool"
 ---
 
 # Why?
