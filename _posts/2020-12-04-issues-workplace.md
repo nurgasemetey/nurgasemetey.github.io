@@ -16,12 +16,12 @@ We are working (8 people)
   - frontend
   - Ops
 - smart city platform where we develop many and many modules(really many)
-  - various integrations with devices and webservices
+  - various integrations with devices and web services
   - backend
   - frontend
   - Ops
 - ERP system for one government unit
-  - various integrations with webservices
+  - various integrations with web services
   - backend
   - frontend
   - Ops
@@ -37,13 +37,13 @@ We are working (8 people)
   - integrations(rare)
 - tunnel incident detection platform
   - backend
-  - various integrations with devices and webservices
+  - various integrations with devices and web services
   - Ops
 - demos which mainly don't give any results
 
 As you can see, there is more than average load on 8 people.
 
-In my case, **I am really tired of context switching**.  I hate everytime when I need to connect with SSH or Anydesk, check integrator DB which can only be connected using Windows.
+In my case, **I am really tired of context switching**.  I hate every time when I need to connect with SSH or Anydesk, check integrator DB which can only be connected using Windows.
 
 # Issue 2: Expectation that we are still startup
 
