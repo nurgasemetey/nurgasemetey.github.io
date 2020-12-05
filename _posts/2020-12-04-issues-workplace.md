@@ -31,7 +31,7 @@ We are working (8 people)
   - Ops
 - research projects(2-3 projects each year)
   - algorithms
-  - suporting with data retrieval
+  - supporting with data retrieval
 - embedded application which works on field
   - Ops (mainly supporting field operations)
   - integrations(rare)
