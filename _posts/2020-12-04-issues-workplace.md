@@ -51,8 +51,6 @@ Expecting constant motivation and energy is unreasonable.
 
 Yet, it is expected that we must cheer every day.
 
-Founder believes that we are indebted to him because he worked too much for us. God bless him.
-
 # Issue 3: No sign of future major success
 
 I would understand if there was some sign of impending major success yet there is nothing. I am still surprised that no one is trying to leave. 
