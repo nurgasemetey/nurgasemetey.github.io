@@ -53,4 +53,6 @@ Yet, it is expected that we must cheer every day.
 
 # Issue 3: No sign of future major success
 
+All mentioned products are not growing as we wish. 
+
 I would understand if there was some sign of impending major success yet there is nothing. I am still surprised that no one is trying to leave. 
