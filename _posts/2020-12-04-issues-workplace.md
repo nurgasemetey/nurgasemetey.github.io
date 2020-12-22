@@ -55,4 +55,4 @@ Yet, it is expected that we must cheer every day.
 
 All mentioned products are not growing as we wish. 
 
-I would understand if there was some sign of impending major success yet there is nothing. I am still surprised that no one is trying to leave. 
+I would understand if there was some sign of impending major success yet there is nothing.
