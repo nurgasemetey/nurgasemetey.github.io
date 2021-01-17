@@ -82,6 +82,7 @@ Source code - [https://github.com/nurgasemetey/compare-last-season](https://gith
 
 Link - [https://compare-last-season.netlify.app/](https://compare-last-season.netlify.app/)
 
+---
 
 # Top Topics According to Github Stars
 
