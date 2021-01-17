@@ -12,9 +12,9 @@ Daily productivity heatmap
 
 #### Links
 
-Source code - [https://github.com/Paraboly/janus](https://github.com/Paraboly/janus)
+Source code - [https://github.com/nurgasemetey/janus](https://github.com/nurgasemetey/janus)
 
-Link - [https://paraboly.github.io/janus/](https://paraboly.github.io/janus/)
+Link - [https://www.nurgasemetey.com/janus/](https://www.nurgasemetey.com/janus/)
 
 ---
 
@@ -81,3 +81,16 @@ Compare team's last season and this season.
 Source code - [https://github.com/nurgasemetey/compare-last-season](https://github.com/nurgasemetey/compare-last-season)
 
 Link - [https://compare-last-season.netlify.app/](https://compare-last-season.netlify.app/)
+
+
+# Last Season Compare
+
+#### Description
+
+Find your top topics according to your github star history.
+
+#### Links
+
+Source code - [https://github.com/nurgasemetey/top-topics-by-github-stars](https://github.com/nurgasemetey/top-topics-by-github-stars)
+
+Link - [https://top-topics-by-github-stars.netlify.app/](https://top-topics-by-github-stars.netlify.app/)
