@@ -2,6 +2,11 @@
 layout: default
 home: true
 ---
+<h3 class="posts-item-note" aria-label="Projects and products">Projects and products</h3>
+
+{% capture p1 %}{% include projects.md %}{% endcapture %}
+{{ p1 | markdownify }}
+
 
 <!-- <h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
 {%- for post in site.posts limit: site.number_of_posts -%}
