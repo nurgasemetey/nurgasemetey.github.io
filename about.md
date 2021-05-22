@@ -1,18 +1,28 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+# excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hi, I’m Nurgazy Nazhimidinov. I am from Kyrgyzstan. 
 
-If you have a question about him or else, just send a letter to him.
+I have graduated from Computer Engineering department of Middle East Technical University.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Also Chelsea fan.
 
-**may u needs ✨**
+I love to
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- read
+- play table tennis and soccer
+- ship products
+
+
+# Contact
+
+Email: [nurgasemetey@gmail.com](mailto:nurgasemetey@gmail.com)
+
+Github: [https://github.com/nurgasemetey](https://github.com/nurgasemetey)
+
+Twitter: [https://twitter.com/nurgasemetey](https://twitter.com/nurgasemetey)
