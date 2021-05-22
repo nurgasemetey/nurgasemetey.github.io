@@ -20,7 +20,7 @@ author:
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
-url: "nurgasemetey.com" #
+url: "https://nurgasemetey.com" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
