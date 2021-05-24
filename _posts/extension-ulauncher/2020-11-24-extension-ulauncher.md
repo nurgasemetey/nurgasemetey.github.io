@@ -1,6 +1,6 @@
 ---
 title: "How I wrote Ulauncher extension for most used timedate macros"
-description: "Soccer tool for ..."
+description: "Ulauncher extension ..."
 date: 2020-11-24 00:00:00 +00:00
 modified: 2020-11-24 00:00:00 +00:00
 keywords: [amazon-ses,mjml,template]

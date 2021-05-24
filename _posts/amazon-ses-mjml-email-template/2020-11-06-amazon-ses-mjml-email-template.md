@@ -1,6 +1,6 @@
 ---
 title: "How I used Amazon SES with MJML to create email templates in my side-project"
-description: "Short story about Amazon SES u "
+description: "Short story about Amazon SES"
 date: 2020-11-06 00:00:00 +00:00
 modified: 2020-11-06 00:00:00 +00:00
 keywords: [tool]
