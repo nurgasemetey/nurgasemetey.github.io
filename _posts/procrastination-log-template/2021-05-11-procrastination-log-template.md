@@ -2,7 +2,7 @@
 title: "Procrastination Log Template From Habit Now Book"
 date: 2021-05-11 00:00:00 +00:00
 modified: 2021-05-11 00:00:00 +00:00
-keywords: [productivity, habit now]
+tags: [productivity, habit now]
 ---
 
 
