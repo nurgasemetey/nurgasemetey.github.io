@@ -77,7 +77,7 @@ Also Amazon SES doesn't have template editor, so how to create **responsive and 
 The mjml is tool which allows create responsive email. It has nice editor where you can design email template.
 
 
-![mjml editor](/amazon-ses-mjml-email-template/mjml-editor.png)
+![mjml editor](/amazon-ses-mjml-email-template/mjml_editor.png)
 
 
 Standard workflow for generating email template html:
@@ -97,7 +97,7 @@ aws ses update-template --cli-input-json file://simple-template.json
 
 **Example**:
 
-![mjml editor](/amazon-ses-mjml-email-template/mjml-example.png)
+![mjml editor](/amazon-ses-mjml-email-template/mjml_example.png)
 
 
 ---
