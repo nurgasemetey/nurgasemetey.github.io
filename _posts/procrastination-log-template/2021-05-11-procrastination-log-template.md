@@ -6,6 +6,6 @@ tags: [productivity, habit now]
 ---
 
 
-Download PDF template [here](/procrastination-log-template/Procrastination-Log-Template-Sheet1.pdf)
+Download PDF template [here](/assets/files/Procrastination%20Log%20Template%20-%20Sheet1.pdf)
 
 Make copy of template in Google Sheets [here](https://docs.google.com/spreadsheets/d/1u3bpXzdkCxJRHGsCrX5SzkTW0o3fCvDpgqAHQ_ll3f0/copy)
