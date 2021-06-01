@@ -8,7 +8,7 @@ home: true
 {{ p1 | markdownify }}
 
 
-<h2 class="posts-item-note" aria-label="Recent Posts">✍ Recent Posts</h2>
+<h2 class="posts-item-note" aria-label="Recent Posts" style="margin-top:50px;">✍ Recent Posts</h2>
 {%- for post in site.posts limit: site.number_of_posts -%}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
