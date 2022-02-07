@@ -10,4 +10,4 @@ Download PDF template [here](/assets/files/Procrastination%20Log%20Template%20-%
 
 Make copy of template in Google Sheets [here](https://docs.google.com/spreadsheets/d/1u3bpXzdkCxJRHGsCrX5SzkTW0o3fCvDpgqAHQ_ll3f0/copy)
 
-Sample template with different link [here](https://docs.google.com/spreadsheets/d/1u3bpXzdkCxJRHGsCrX5SzkTW0o3fCvDpgqAHQ_ll3f0/template/preview)
+Same template with different link [here](https://docs.google.com/spreadsheets/d/1u3bpXzdkCxJRHGsCrX5SzkTW0o3fCvDpgqAHQ_ll3f0/template/preview)
