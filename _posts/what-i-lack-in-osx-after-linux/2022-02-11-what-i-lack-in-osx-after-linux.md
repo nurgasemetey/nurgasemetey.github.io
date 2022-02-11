@@ -48,5 +48,10 @@ You can't add some app to recommended list for opening files. It is especially n
 
 Yes, it has Alfred or Raycast but I don't want to buy Alfred and be locked to it. For example, Ulauncher is free and has much more plugins compared to Raycast. 
 
+Use cases
+
+- I can add current song in Spotify to favourites without going to app. I couldn't find such behaviour in Raycast.
+- I can copy to clipboard various timestamp formats. Again I couldn't find such behaviour in Raycast.
+
 
 
