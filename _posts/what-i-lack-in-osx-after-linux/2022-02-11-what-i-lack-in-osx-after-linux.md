@@ -22,7 +22,7 @@ Also using [Devilspie2](https://www.nongnu.org/devilspie2/ "Devilspie2"), I coul
 
 ## OS X
 
-Currently, I feel pain because I need to mouse touchpad and drag windows to another workspace. Although [Rectangle](https://github.com/rxhanson/Rectangle "rxhanson/Rectangle: Move and resize windows on macOS with keyboard shortcuts and snap areas") somehow helps in tiling windows to some extent.
+Currently, I feel pain because I need to use trackpad and drag windows to another workspace. Although [Rectangle](https://github.com/rxhanson/Rectangle "rxhanson/Rectangle: Move and resize windows on macOS with keyboard shortcuts and snap areas") somehow helps in tiling windows to some extent.
 
 Another painful moment is maximize button behavior(it creates new workspace). 
 
@@ -40,7 +40,7 @@ Terminal and Iterm 2 don't support moving cursors word by word by default like i
 
 # File management
 
-You can't add some app to recommended list for opening files. It is especially needed when you want to open some `kt`, `js` or `.cpp` file using `Sublime Text`. OS X does not allow intuitive adding unless you must use `Automator` or go to app's `plist` , edit it and run some command to link. As workaround, I open terminal and run `cat` command to see content of file.
+You can't add some app to recommended list for opening files. It is especially needed when you want to open some `kt`, `js` or `.cpp` file using `Sublime Text`. OS X does not allow intuitive adding unless you must use `Automator` or go to app's `plist` , edit it and run some command to link. As workaround, I open terminal and run `cat` command to see contents of file.
 
 
 
