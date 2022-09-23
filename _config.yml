@@ -1,7 +1,7 @@
 # Site settings
 title: Nurgazy Nazhimidinov's Personal Website # site title
 description: >- # site description
-  Writing and shipping
+  Trying
 lang: en-US # default lang
 timezone: Europe/Istanbul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Nurgazy Nazhimidinov # author name
   bio: >- # tell to the world
-    I am software engineer. I constantly try to ship products. I write generally about software and other misc stuff.
+    Just trying new things.
   username: username # general username
   github: nurgasemetey # github username
   twitter: nurgasemetey # twitter username
