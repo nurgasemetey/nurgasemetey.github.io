@@ -1,5 +1,6 @@
 | Name                                 | Description                                                  | Link                                                         | Source code                                                  | Status  |
 | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
+| Leetcode Stats                | Track your Leetcode stats                                      | [Link](https://play.google.com/store/apps/details?id=com.nurgasemetey.leetcodestats) |         
 | 🆕 Daily note | Ulauncher extension to take daily notes. | [Link](https://ext.ulauncher.io/-/github-nurgasemetey-ulauncher-daily-note) | [Link](https://github.com/nurgasemetey/ulauncher-daily-note) |  |
 | Timestamp macros | Ulauncher extension to copy to clipboard the most used timedate formats | [Link](https://ext.ulauncher.io/-/github-nurgasemetey-ulauncher-timestamp-macros) | [Link](https://github.com/nurgasemetey/ulauncher-timestamp-macros) |  |
 | Leetcode Solved Problem Tracker | Github action which tracks solved problems daily | [Link](https://github.com/nurgasemetey/leetcode-solved-problem-tracker) | [Link](https://github.com/nurgasemetey/leetcode-solved-problem-tracker) |  |
