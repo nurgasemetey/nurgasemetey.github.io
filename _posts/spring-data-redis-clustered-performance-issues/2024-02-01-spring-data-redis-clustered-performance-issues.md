@@ -13,7 +13,7 @@ Issues started with `multiGet` or `MGET`
 ```kotlin
 redisTemplate.opsForValue().multiGet(keys)
 ```
-I run command above in Clustered Redis and I saw that there were several MGET commands executed in different threads. I expected there would be **one** MGET command.
+I ran command above in Clustered Redis and I saw that there were several MGET commands executed in different threads. I expected there would be **one** MGET command.
 
 Later, I learned that my keys were landing to different slots. That's why Spring Data Redis was executing several commands for each key.
 
@@ -24,7 +24,7 @@ There was nothing to do with it.
 
 # Pipelining
 
-Second part of my work was I had several entities and for each entity I had run several `GETBIT`s. So I thought I can use pipelining.
+Second part of my work was I had several entities and for each entity I had to run several `GETBIT`s. So I thought I can use pipelining.
 
 Pipelining is recommended when you want to improve performance of your Redis operations.
 Because operations did not require to be serial, pipeline seemed perfect solution.
@@ -32,13 +32,13 @@ In pipeline, commands were sent in batch through Redis connection and we just ha
 
 # Unexpected performance with pipelining
 
-So I run pipelining and was shocked to see following
+So I ran pipelining and was shocked to see following
 
 ![alt text](/assets/img/spring-data-redis-clustered-performance-issues/image-1.png)
 
 These were huge numbers.
 
-Suspecting that it was related with pipelining, I tried to run `GETBIT`s in plain for loop and saw that something was happening with pipeline.
+Suspecting that it was related with pipelining, I tried to ran `GETBIT`s in plain for loop and saw that something was happening with pipeline.
 
 ![alt text](/assets/img/spring-data-redis-clustered-performance-issues/image-2.png)
 
