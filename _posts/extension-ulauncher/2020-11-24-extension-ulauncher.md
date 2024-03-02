@@ -28,7 +28,7 @@ printf $(date +"%Y-%m-%d") | setclip
 
 Initially, I was really happy but after some time number of custom scripts increased. I had difficulties with remembering them.
 
-![chelsea](/extension-ulauncher/ulauncher-extension-shortcuts.png){:class="img-responsive"}
+![chelsea](/assets/img/extension-ulauncher/ulauncher-extension-shortcuts.png){:class="img-responsive"}
 
 
 # How?
@@ -76,7 +76,7 @@ Example of `manifest.json`
 
 It says that if you write keyword **Timemacros**, extension will be on launcher(**WARNING** not clicked).
 
-![chelsea](/extension-ulauncher/ulauncher-extension-keyword.png){:class="img-responsive"}
+![chelsea](/assets/img/extension-ulauncher/ulauncher-extension-keyword.png){:class="img-responsive"}
 
 
 ---
@@ -136,7 +136,7 @@ Our `items` would be
 
 Here is the screenshot of items:
 
-![chelsea](/extension-ulauncher/ulauncher-extension-items.png){:class="img-responsive"}
+![chelsea](/assets/img/extension-ulauncher/ulauncher-extension-items.png){:class="img-responsive"}
 
 
 Code for item:
@@ -167,7 +167,7 @@ At the end, I developed extension with enabled me to discard my custom bash scri
 
 Deprecated bash scripts 😄
 
-![chelsea](/extension-ulauncher/ulauncher-extension-bash-scripts.png){:class="img-responsive"}
+![chelsea](/assets/img/extension-ulauncher/ulauncher-extension-bash-scripts.png){:class="img-responsive"}
 
 
 ---
