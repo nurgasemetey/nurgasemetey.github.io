@@ -14,12 +14,10 @@ I love to
 
 - read
 - play table tennis and soccer
-- ship products
-
 
 # Contact
 
-Email: [nurgasemetey@gmail.com](mailto:nurgasemetey@gmail.com)
+Email: [nurgasemetey[at]gmail.com](mailto:nurgasemetey@gmail.com)
 
 Github: [https://github.com/nurgasemetey](https://github.com/nurgasemetey)
 
