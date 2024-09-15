@@ -42,7 +42,7 @@ WHERE item_events.item_id in (
 ```
 As you see, for that old date, item's `status` will still be `ACTIVE`. Thus, you can be sure that on the job rerun it will give same results.
 
-**Introduce new values to make it job reproducible**
+**Introduce new values to make job reproducible**
 
 You can introduce new fields that will be valid throughout interval: `active_start_date` and `active_end_date`.
 
