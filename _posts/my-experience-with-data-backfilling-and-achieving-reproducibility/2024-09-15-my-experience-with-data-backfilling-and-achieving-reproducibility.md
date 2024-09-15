@@ -61,4 +61,4 @@ WHERE item_events.item_id in (
 On the rerun, it will still give correct results because we did stabilize it by introducing dates where it should be taken into account.
 
 
-Of course, you can develop custom scripts to backfill data. Downside of this is that your script can contains errors too. However, approaches above will allow to rerun job by only clicking to relevant days from your workflow management tool.
+Of course, you can develop custom scripts to backfill data. Downside of this is that your script can contain errors too. However, approaches above will allow to rerun job by only clicking to relevant days from your workflow management tool.
