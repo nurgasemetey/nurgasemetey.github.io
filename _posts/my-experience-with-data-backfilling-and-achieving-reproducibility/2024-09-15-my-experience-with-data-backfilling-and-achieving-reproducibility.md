@@ -9,7 +9,7 @@ Recently, I was busy with some data engineering related things and I want to sha
 
 # Make jobs resilient to failure
 
-So you wrote following job that runs daily.
+So you wrote following job that runs daily 
 
 ```sql
 SELECT *
