@@ -23,7 +23,9 @@ WHERE item_events.item_id in (
 
 and deployed to production using your workflow management tool(ex. Airflow). Some time later you notice that logic is wrong and have to you run job again for last month.
 
-The thing is that can wrong is that you depend on `item.status`. Some items can have different statuses right now than month ago. On job rerun, events for items that were active in the previous month but are no longer active will not be saved
+The thing is that can wrong is that you depend on `item.status`. Some items can have different statuses right now than month ago. On job rerun, events for items that were active in the previous month but are no longer active will not be saved.
+
+You must remember that in jobs wil **always** fail for some reason. What is important is that how can you achieve correctness of backfilled data.
 
 There are ways to solve this.
 
