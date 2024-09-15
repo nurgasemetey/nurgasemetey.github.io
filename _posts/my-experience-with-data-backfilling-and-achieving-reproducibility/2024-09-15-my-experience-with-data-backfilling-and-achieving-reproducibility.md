@@ -23,9 +23,9 @@ WHERE item_events.item_id in (
 
 and deployed to production using your workflow management tool(ex. Airflow). Some time later you notice that logic is wrong and have to you run job again for last month.
 
-The thing is that can wrong is that you depend on `item.status`. Some items's statuses can have another value. Maybe month ago, they were `ACTIVE`.
+The thing is that can wrong is that you depend on `item.status`. Some items can have different statuses right now than month ago. On job rerun, events for items that were active in the previous month but are no longer active will not be saved
 
-There are ways to tackle this.
+There are ways to solve this.
 
 **Take a snapshot of tables**
 
