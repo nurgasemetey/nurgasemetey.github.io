@@ -25,7 +25,7 @@ and deployed to production using your workflow management tool(ex. Airflow). Som
 
 The thing is that can wrong is that you depend on `item.status`. Some items can have different statuses right now than month ago. On job rerun, events for items that were active in the previous month but are no longer active will not be saved.
 
-You must remember that in jobs wil **always** fail for some reason. What is important is that how can you achieve correctness of backfilled data.
+You must remember that jobs will **always** fail for some reason. What is important is that how can you achieve correctness of backfilled data.
 
 There are ways to solve this.
 
