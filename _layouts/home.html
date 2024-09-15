@@ -2,11 +2,6 @@
 layout: default
 home: true
 ---
-<h2 class="posts-item-note" aria-label="My side-projects">🚀 My side-projects </h2>
-
-{% capture p1 %}{% include projects.md %}{% endcapture %}
-{{ p1 | markdownify }}
-
 
 <h2 class="posts-item-note" aria-label="Recent Posts" style="margin-top:50px;">✍ Recent Posts</h2>
 {%- for post in site.posts limit: site.number_of_posts -%}
@@ -17,3 +12,8 @@ home: true
   </h4>
 </article>
 {%- endfor -%}
+
+<h2 class="posts-item-note" aria-label="My side-projects">🚀 My side-projects </h2>
+
+{% capture p1 %}{% include projects.md %}{% endcapture %}
+{{ p1 | markdownify }}
