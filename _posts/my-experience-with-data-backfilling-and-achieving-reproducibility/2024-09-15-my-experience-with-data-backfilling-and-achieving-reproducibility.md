@@ -33,6 +33,7 @@ There are ways to solve this.
 
 You can take snapshots of `item` table for each day.
 
+Example of snapshot data
 ```csv
 id,name,status,snapshot_date
 1,itemA,ACTIVE,2024-09-13
@@ -40,7 +41,7 @@ id,name,status,snapshot_date
 1,itemA,PASSIVE,2024-09-15
 ```
 
-
+New  job
 ```sql
 SELECT *
 FROM item_events
