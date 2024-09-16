@@ -18,7 +18,7 @@ WHERE item_events.item_id in (
     SELECT id
     FROM item
     WHERE item.status='ACTIVE'
-) and item_events.date = {DATE}
+) AND item_events.date = {DATE}
 ```
 
 and deployed to production using your workflow management tool(ex. Airflow). Some time later you notice that logic is wrong and have to you run job again for last month.
@@ -39,8 +39,8 @@ FROM item_events
 WHERE item_events.item_id in (
     SELECT id
     FROM item_snapshot
-    WHERE item.status='ACTIVE' and date_snapshot={DATE}
-) and item_events.date = {DATE}
+    WHERE item.status='ACTIVE' AND date_snapshot={DATE}
+) AND item_events.date = {DATE}
 ```
 As you see, for that old date, item's `status` will still be `ACTIVE`. Thus, you can be sure that on the job rerun it will give same results.
 
@@ -54,8 +54,8 @@ FROM item_events
 WHERE item_events.item_id in (
     SELECT id
     FROM item
-    WHERE item.active_start_date<={DATE} and item.active_end_date>={DATE}
-) and item_events.date = {DATE}
+    WHERE item.status='ACTIVE' OR (item.active_start_date<={DATE} AND item.active_end_date>={DATE})
+) AND item_events.date = {DATE}
 ```
 
 On the rerun, it will still give correct results because we did stabilize it by introducing dates where it should be taken into account.
