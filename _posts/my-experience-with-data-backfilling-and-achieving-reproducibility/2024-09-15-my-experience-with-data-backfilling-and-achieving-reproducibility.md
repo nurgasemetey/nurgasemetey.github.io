@@ -33,13 +33,21 @@ There are ways to solve this.
 
 You can take snapshots of `item` table for each day.
 
+```csv
+id,name,status,snapshot_date
+1,itemA,ACTIVE,2024-09-13
+1,itemA,ACTIVE,2024-09-14
+1,itemA,PASSIVE,2024-09-15
+```
+
+
 ```sql
 SELECT *
 FROM item_events
 WHERE item_events.item_id in (
     SELECT id
     FROM item_snapshot
-    WHERE item.status='ACTIVE' AND date_snapshot={DATE}
+    WHERE item.status='ACTIVE' AND snapshot_date={DATE}
 ) AND item_events.date = {DATE}
 ```
 As you see, for that old date, item's `status` will still be `ACTIVE`. Thus, you can be sure that on the job rerun it will give same results.
