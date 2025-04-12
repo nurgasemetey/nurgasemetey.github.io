@@ -5,9 +5,9 @@ modified: 2024-09-25 00:00:00 +00:00
 tags: [spark, testing, scala]
 ---
 
-I was working with Scala Spark applications recently. Because I didn't know very much about mocking table reads in Spark and had to write unit test for function, I removed all `spark.read` calls to function. When I looked at function to be tested, I noticed that it was less cohesive. 
+I was working with Scala Spark applications recently. Because I didn't know much about mocking table reads in Spark and had to write a unit test for a function, I removed all the `spark.read` calls from the function. When I looked at the function to be tested, I noticed that it had become less cohesive.
 
-Here is the version function which didn't have `spark.read`. 
+Here is the version of the function without `spark.read` calls:
 
 ```scala
 def processThirdPartyEvents(entities: DataFrame, subEntities: DataFrame, entityEvents: DataFrame, thirdPartyEvents: DataFrame)
@@ -29,13 +29,12 @@ val thirdPartyEvents = getThirdPartyEvents(thirdPartyEventTable, startDate, endD
 processThirdPartyEvents(entities, subEntities, entityEvents, thirdPartyEvents)
 ```
 
-What I don't like in such declaration is that I have to provide `entityEvents` and `thirdPartyEvents` to function declaration in order to test `processThirdPartyEvents`. Also, I don't like that place which it is calling knows about those events. If I had known more about mocking `spark.read`, I would call `spark.read` in the `processThirdPartyEvents` and didn't declare get those events from arguments. I don't want to make this function public so that it can be tested. I wanted to hide and test it as blackbox.
+What I don't like about this declaration is that I have to provide `entityEvents` and `thirdPartyEvents` as arguments in order to test `processThirdPartyEvents`. I also don’t like that the caller needs to know about those events. Had I known more about mocking `spark.read`, I would have called `spark.read` directly inside `processThirdPartyEvents` instead of requiring those events as parameters. I don’t want to make this function public solely for testing purposes; I wanted to hide it and test it as a black box.
 
-
-I like following declaration much better because it hides which events its using. And place where it is called would not know about those events.
+I much prefer this declaration because it hides which events are used, so the caller doesn’t need to be concerned with them:
 
 ```scala
 def processThirdPartyEvents(entities: DataFrame, subEntities: DataFrame)
 ```
 
-So my advice is to learn more about tools you use :).
+So my advice is: learn more about the tools you use!
